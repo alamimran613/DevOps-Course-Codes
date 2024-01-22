@@ -1,4 +1,3 @@
-```markdown
 # Info
 Amazon Aurora is Cheaper than MySQL or PostgreSQL. It is 5 times faster than MySQL and 3 times faster than PostgreSQL and also cheaper than those databases.
 
